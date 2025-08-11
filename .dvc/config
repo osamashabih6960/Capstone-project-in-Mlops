@@ -1,0 +1,5 @@
+[core]
+    no_scm = True
+    remote = mylocal
+['remote "mylocal"']
+    url = ../local_s3
